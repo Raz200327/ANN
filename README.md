@@ -41,6 +41,10 @@ With custom parameters:
 python run.py train --input-size 2 --hidden-layers 3 --output-size 2 --neurons 16 --learning-rate 0.001 --epochs 250 --samples 10000 --visualise
 ```
 
+Example of visualisation:
+<img width="945" alt="Screenshot 2024-12-21 at 12 26 03 am" src="https://github.com/user-attachments/assets/94ff75c4-440a-4b60-8293-3415aec69324" />
+
+
 ### Command Line Arguments
 
 - `--input-size`: Number of input features (default: 2)
