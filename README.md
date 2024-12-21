@@ -58,23 +58,6 @@ Example of visualisation:
 - `--visualise`: Flag to visualize decision boundary after training
 - `--resolution`: Grid resolution for visualization (default: 100)
 
-## Code Structure
-
-The implementation consists of two main Python files:
-
-### ANN.py
-Contains the `NeuralNetwork` class implementation with methods for:
-- Network creation and initialization
-- Forward and backward propagation
-- Training and evaluation
-- Model saving and loading
-
-### main.py
-Provides the command-line interface and includes:
-- Argument parsing
-- Data generation
-- Training workflow
-- Visualization utilities
 
 ## Example Output
 
