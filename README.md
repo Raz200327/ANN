@@ -1,3 +1,6 @@
+
+<img width="631" alt="Screenshot 2024-12-21 at 11 45 50 am" src="https://github.com/user-attachments/assets/f84f96d2-ec81-43d8-88d7-4fb5fd5ea378" />
+
 # Neural Network Implementation
 
 A flexible implementation of a feedforward neural network with customizable architecture, written in Python. This implementation includes a command-line interface for training and visualizing the network's decision boundaries on classification tasks.
